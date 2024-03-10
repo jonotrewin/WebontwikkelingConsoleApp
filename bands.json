@@ -1,0 +1,193 @@
+[
+    {
+      "id": "BND-001",
+      "name": "Midnight Riders",
+      "description": "Midnight Riders are a legendary rock band known for their high-energy performances and timeless hits that have defined rock music for decades.",
+      "age": 45,
+      "isActive": true,
+      "formationDate": "1979-05-12",
+      "imageUrl": "https://example.com/images/bands/midnight-riders.jpg",
+      "genre": "Rock",
+      "members": ["Johnny Blaze", "Samantha Steel", "Tommy Thunder", "Billy Bolt"],
+      "recordLabel": {
+        "id": "LABEL-201",
+        "name": "Rebel Records",
+        "labelLogoUrl": "https://example.com/images/labels/rebel-records-logo.jpg",
+        "foundedYear": 1965,
+        "founder": "Jack Maverick",
+        "headquarters": "Nashville, Tennessee"
+      }
+    },
+    {
+      "id": "BND-002",
+      "name": "Blackened Heart",
+      "description": "Blackened Heart is a hard-hitting rock band known for their raw lyrics and intense live performances that captivate audiences worldwide.",
+      "age": 22,
+      "isActive": true,
+      "formationDate": "2002-11-17",
+      "imageUrl": "https://example.com/images/bands/blackened-heart.jpg",
+      "genre": "Rock",
+      "members": ["Raven Stone", "Axel Frost", "Vince Slash", "Max Thunder"],
+      "recordLabel": {
+        "id": "LABEL-202",
+        "name": "Darkside Records",
+        "labelLogoUrl": "https://example.com/images/labels/darkside-records-logo.jpg",
+        "foundedYear": 1998,
+        "founder": "Damien Night",
+        "headquarters": "New York City, New York"
+      }
+    },
+    {
+      "id": "BND-003",
+      "name": "Electric Storm",
+      "description": "Electric Storm is a rock band known for their electrifying stage presence and dynamic fusion of classic and modern rock influences.",
+      "age": 12,
+      "isActive": true,
+      "formationDate": "2010-08-29",
+      "imageUrl": "https://example.com/images/bands/electric-storm.jpg",
+      "genre": "Rock",
+      "members": ["Stormy Blaze", "Max Voltage", "Luna Fury", "Riff Rocker"],
+      "recordLabel": {
+        "id": "LABEL-203",
+        "name": "Thunder Records",
+        "labelLogoUrl": "https://example.com/images/labels/thunder-records-logo.jpg",
+        "foundedYear": 2005,
+        "founder": "Rick Lightning",
+        "headquarters": "Seattle, Washington"
+      }
+    },
+    {
+      "id": "BND-004",
+      "name": "Soulfire",
+      "description": "Soulfire is a rock band known for their soulful melodies and heartfelt lyrics that resonate with audiences on a deep emotional level.",
+      "age": 18,
+      "isActive": true,
+      "formationDate": "2006-03-08",
+      "imageUrl": "https://example.com/images/bands/soulfire.jpg",
+      "genre": "Rock",
+      "members": ["Alex Harmony", "Grace Rivers", "Jake Soul", "Eva Blaze"],
+      "recordLabel": {
+        "id": "LABEL-204",
+        "name": "Soulshine Records",
+        "labelLogoUrl": "https://example.com/images/labels/soulshine-records-logo.jpg",
+        "foundedYear": 2002,
+        "founder": "Melody Stone",
+        "headquarters": "San Francisco, California"
+      }
+    },
+    {
+      "id": "BND-005",
+      "name": "Echoes of Chaos",
+      "description": "Echoes of Chaos is a rock band known for their edgy sound and thought-provoking lyrics that challenge societal norms and conventions.",
+      "age": 15,
+      "isActive": true,
+      "formationDate": "2009-11-03",
+      "imageUrl": "https://example.com/images/bands/echoes-of-chaos.jpg",
+      "genre": "Rock",
+      "members": ["Echo", "Chaos", "Rebel", "Riot"],
+      "recordLabel": {
+        "id": "LABEL-205",
+        "name": "Chaos Records",
+        "labelLogoUrl": "https://example.com/images/labels/chaos-records-logo.jpg",
+        "foundedYear": 2004,
+        "founder": "Anarchy Smith",
+        "headquarters": "Detroit, Michigan"
+      }
+    },
+    {
+      "id": "BND-006",
+      "name": "Silver Serenade",
+      "description": "Silver Serenade is a rock band known for their mesmerizing melodies and poetic lyrics that transport listeners to another world.",
+      "age": 25,
+      "isActive": true,
+      "formationDate": "1999-09-18",
+      "imageUrl": "https://example.com/images/bands/silver-serenade.jpg",
+      "genre": "Rock",
+      "members": ["Silver", "Serenade", "Harmony", "Melody"],
+      "recordLabel": {
+        "id": "LABEL-206",
+        "name": "Serenade Records",
+        "labelLogoUrl": "https://example.com/images/labels/serenade-records-logo.jpg",
+        "foundedYear": 1994,
+        "founder": "Harper Song",
+        "headquarters": "Austin, Texas"
+      }
+    },
+    {
+      "id": "BND-007",
+      "name": "Rising Phoenix",
+      "description": "Rising Phoenix is a rock band known for their resilience and passion, rising from the ashes to deliver powerful performances that inspire hope and change.",
+      "age": 10,
+      "isActive": true,
+      "formationDate": "2014-06-27",
+      "imageUrl": "https://example.com/images/bands/rising-phoenix.jpg",
+      "genre": "Rock",
+      "members": ["Phoenix", "Blaze", "Flame", "Ember"],
+      "recordLabel": {
+        "id": "LABEL-207",
+        "name": "Phoenix Records",
+        "labelLogoUrl": "https://example.com/images/labels/phoenix-records-logo.jpg",
+        "foundedYear": 2009,
+        "founder": "Asher Flame",
+        "headquarters": "Chicago, Illinois"
+      }
+    },
+    {
+      "id": "BND-008",
+      "name": "Thunderstruck",
+      "description": "Thunderstruck is a rock band known for their electrifying energy and thunderous sound that shakes the very foundation of rock music.",
+      "age": 20,
+      "isActive": true,
+      "formationDate": "2004-12-09",
+      "imageUrl": "https://example.com/images/bands/thunderstruck.jpg",
+      "genre": "Rock",
+      "members": ["Thunder", "Lightning", "Storm", "Blaze"],
+      "recordLabel": {
+        "id": "LABEL-208",
+        "name": "Storm Records",
+        "labelLogoUrl": "https://example.com/images/labels/storm-records-logo.jpg",
+        "foundedYear": 1999,
+        "founder": "Stormy Night",
+        "headquarters": "Miami, Florida"
+      }
+    },
+    {
+      "id": "BND-009",
+      "name": "Iron Reign",
+      "description": "Iron Reign is a rock band known for their ironclad determination and uncompromising attitude, forging a path of musical excellence with every riff and beat.",
+      "age": 15,
+      "isActive": true,
+      "formationDate": "2009-03-15",
+      "imageUrl": "https://example.com/images/bands/iron-reign.jpg",
+      "genre": "Rock",
+      "members": ["Iron", "Reign", "Steel", "Fury"],
+      "recordLabel": {
+        "id": "LABEL-209",
+        "name": "Reign Records",
+        "labelLogoUrl": "https://example.com/images/labels/reign-records-logo.jpg",
+        "foundedYear": 2004,
+        "founder": "Ragnar Iron",
+        "headquarters": "Minneapolis, Minnesota"
+      }
+    },
+    {
+      "id": "BND-010",
+      "name": "Wildfire",
+      "description": "Wildfire is a rock band known for their explosive performances and untamed spirit, setting the stage ablaze with their fiery passion for music.",
+      "age": 8,
+      "isActive": true,
+      "formationDate": "2016-09-08",
+      "imageUrl": "https://example.com/images/bands/wildfire.jpg",
+      "genre": "Rock",
+      "members": ["Wild", "Fire", "Blaze", "Flame"],
+      "recordLabel": {
+        "id": "LABEL-210",
+        "name": "Inferno Records",
+        "labelLogoUrl": "https://example.com/images/labels/inferno-records-logo.jpg",
+        "foundedYear": 2012,
+        "founder": "Dante Inferno",
+        "headquarters": "Denver, Colorado"
+      }
+    }
+  ]
+  
